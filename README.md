@@ -68,15 +68,15 @@ El objetivo del banco es identificar en qué ciudades invertir en infraestructur
 
 ### Visualizar relaciones entre economía y tráfico
 
-1. **Boxplot para observar el comportamiento de los minutos de congestion JamsDelay:** Se uso para observar la media, mediana y detectar valores atípicos.
+1.- **Boxplot para observar el comportamiento de los minutos de congestion JamsDelay:** Se uso para observar la media, mediana y detectar valores atípicos.
 
 ![Boxplot](assets/proyecto_1/boxplot.png)
 
-2. **Histograma para ver la distribución de la economía `(city_gdp_capita)`:** Se ulitizo para para analizar la forma de la distribución y el valor promedio del PIB per cápita.
+2.- **Histograma para ver la distribución de la economía `(city_gdp_capita)`:** Se ulitizo para para analizar la forma de la distribución y el valor promedio del PIB per cápita.
 
 ![Histogram](assets/proyecto_1/histograma.png)
 
-3. **Gráfico de barras para comparar `jams_delay` y `city_gdp_capita` por ciudad:** Finalmente, comparamos ambas variables, para observar si existe alguna relación entre ellas, haciendo un solo gráfico de barras donde aparezcan ambos indicadores.
+3.- **Gráfico de barras para comparar `jams_delay` y `city_gdp_capita` por ciudad:** Finalmente, comparamos ambas variables, para observar si existe alguna relación entre ellas, haciendo un solo gráfico de barras donde aparezcan ambos indicadores.
 
 ![Graph](assets/proyecto_1/grafico.png)
 
