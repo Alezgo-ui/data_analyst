@@ -78,7 +78,7 @@ El objetivo del banco es identificar en qué ciudades invertir en infraestructur
 
 3.- **Gráfico de barras para comparar `jams_delay` y `city_gdp_capita` por ciudad:** Finalmente, comparamos ambas variables, para observar si existe alguna relación entre ellas, haciendo un solo gráfico de barras donde aparezcan ambos indicadores.
 
-![Graph](assets/proyecto_1/grafico.png)
+![Graph](assets/proyecto_1/grafico_barras.png)
 
 ### Conclusiones:
 
